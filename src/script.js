@@ -15,7 +15,7 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Programador","Estudante","Desenvolvedor","Freelancer"],
+         strings:["Programador FullStack","Estudante","Desenvolvedor Web","Freelancer"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
