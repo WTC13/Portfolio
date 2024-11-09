@@ -15,13 +15,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Programador FullStack","Estudante","Desenvolvedor Web","Freelancer"],
+         strings:["Programador FullStack","Desenvolvedor Web","Freelancer"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Programador FullStack","Estudante","Desenvolvedor Web","Freelancer"],
+        strings:["Programador FullStack","Desenvolvedor Web","Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
