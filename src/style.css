@@ -386,23 +386,23 @@ section .title::after{
 }
 
 .skills .skills-content .right .html::before{
-    width: 93%;
+    width: 83%;
 }
 
 .skills .skills-content .right .css::before{
-    width: 90%;
+    width: 80%;
 }
 
 .skills .skills-content .right .js::before{
-    width: 55%;
+    width: 75%;
 }
 
 .skills .skills-content .right .php::before{
-    width: 67%;
+    width: 77%;
 }
 
 .skills .skills-content .right .mysql::before{
-    width: 31%;
+    width: 71%;
 }
 
         /* Sessão Minha Compania */
