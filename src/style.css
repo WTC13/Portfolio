@@ -38,12 +38,14 @@ html{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: 'Poppins', Courier, monospace;
 }
 
 .navbar .logo a{
+    font-family: 'Poppins', Courier, monospace;
     color: #ececec;
     font-size: 35px;
-    font-weight: 500;
+    font-weight:bold;
 }
 
 .navbar .logo a span{
@@ -91,10 +93,12 @@ html{
 }
 
 .home .home-content .text-1{
+    font-family: 'Poppins', Courier, monospace;
     font-size: 27px;
 }
 
 .home .home-content .text-2{
+    font-family: 'Poppins', Courier, monospace;
     font-size: 75px;
     font-weight: 500;
     margin-left: -3px;
@@ -115,6 +119,8 @@ html{
     display: inline-block;
     background: #104ca5d8;
     color: #ececec;
+    font-family: 'Poppins', Courier, monospace;
+    font-weight: bold;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
@@ -228,6 +234,7 @@ section .title::after{
 }
 
 .about .about-content .right .text{
+    font-family: 'Poppins', Courier, monospace;
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -238,6 +245,7 @@ section .title::after{
 }
 
 .about .about-content .right p{
+    font-family: 'Poppins', Courier, monospace;
     text-align: justify;
 }
 
@@ -245,6 +253,7 @@ section .title::after{
     display: inline-block;
     background: #104ca5d8;
     color: #ececec;
+    font-family: 'Poppins', Courier, monospace;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -315,10 +324,16 @@ section .title::after{
 }
 
 .services .serv-content .card .text{
+    font-family: 'Poppins', Courier, monospace;
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+
+.services .serv-content .card p{
+    font-family: 'Poppins', Courier, monospace;
+}
+
 
         /* Sessão Especialidades */
 /* .skills .title::after{
@@ -330,6 +345,7 @@ section .title::after{
 }
 
 .skills .skills-content .left .text{
+    font-family: 'Poppins', Courier, monospace;
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -337,6 +353,7 @@ section .title::after{
 
 
 .skills .skills-content .left p{
+    font-family: 'Poppins', Courier, monospace;
     text-align: justify;
 }
 
@@ -344,6 +361,7 @@ section .title::after{
     display: inline-block;
     background: #104ca5d8;
     color: #ececec;
+    font-family: 'Poppins', Courier, monospace;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
@@ -369,6 +387,7 @@ section .title::after{
 }
 
 .skills .skills-content .right span{
+    font-family: 'Poppins', Courier, monospace;
     font-weight: 500;
     font-size: 18px;
 }
@@ -408,6 +427,15 @@ section .title::after{
 .skills .skills-content .right .mysql::before{
     width: 71%;
 }
+
+.skills .skills-content .right .git::before{    
+    width: 87%;
+}
+
+.skills .skills-content .right .github::before{
+    width: 93%;
+}
+
 
         /* Sessão Minha Compania */
 /* .teams .title::after{
