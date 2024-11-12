@@ -100,7 +100,7 @@ html{
 .home .home-content .text-2{
     font-family: 'Poppins', Courier, monospace;
     font-size: 75px;
-    font-weight: 500;
+    font-weight: bold;
     margin-left: -3px;
     color: #104ca5d8;
 }
