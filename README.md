@@ -1,7 +1,3 @@
-A seguir está uma sugestão de documentação para o repositório GitHub do seu portfólio, que pode ser incluída no arquivo `README.md`:
-
----
-
 # Portfólio Pessoal
 
 Bem-vindo ao repositório do meu portfólio pessoal. Este projeto apresenta minhas habilidades e projetos como Desenvolvedor Frontend.
